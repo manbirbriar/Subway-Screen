@@ -1,0 +1,6 @@
+Weather report: Calgary
+                Overcast
+       .--.     14 °C
+    .-(    ).   ← 10 km/h
+   (___.__)__)  10 km
+                0.0 mm
